@@ -1,9 +1,12 @@
+A retenir :
 git log historique
 git checkout + sha se positionne sur un commit donné
 git checkout master revient sur le commit le + récent
 git rever + sha annule les derniers changements
-git commit --amend -m modifie le message de commit
-git reset -hard annule les dernier changement avant commit
+git commit --amend -m modifie le message de commit (avant le push)
+git reset -hard annule les derniers changements avant commit
 git reset -hard
 git clone + url vérifier l'emplacement de clone
 cat permet l'affichage du fichier
+git push origin master (branche par défaut)
+git pull origin master (branche par défaut)
